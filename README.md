@@ -9,18 +9,18 @@ Początkujący analityk danych, który stawia pierwsze kroki w świecie pracy z 
 
 Zapraszam do zapoznania się z moimi projektami z analizy danych:
 
-- `[8 Week SQL Challenge](#https://github.com/kar-tix/8-Week-SQL-Challenge)
+- [8 Week SQL Challenge](https://github.com/kar-tix/8-Week-SQL-Challenge)
   - SQL
   - PostgreSQL
-- [Google Play Store Dashboard](#https://github.com/kar-tix/Google-Play-Store-Dashboard)
+- [Google Play Store Dashboard](https://github.com/kar-tix/Google-Play-Store-Dashboard)
   - Excel
   - Power Query
   - Pivot Charts
-- [Chocolate Sales Dashboard](#https://github.com/kar-tix/Chocolate-Sales-Dashboard)
+- [Chocolate Sales Dashboard](https://github.com/kar-tix/Chocolate-Sales-Dashboard)
   - Excel
   - Power Query
   - Pivot Charts
-- [Czyszczenie danych](#https://github.com/kar-tix/Data-Cleaning)
+- [Czyszczenie danych](https://github.com/kar-tix/Data-Cleaning)
   - Excel
   - Power Query
 
